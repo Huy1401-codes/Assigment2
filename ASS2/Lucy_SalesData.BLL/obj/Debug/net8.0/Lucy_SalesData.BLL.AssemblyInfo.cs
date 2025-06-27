@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lucy_SalesData.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29fe196347b02716781fe4072ab3abe920ea5f64")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lucy_SalesData.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lucy_SalesData.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

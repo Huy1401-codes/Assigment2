@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xYU32Qkp5PC/IeVJKGJujTiyzJEhO9z7lvYo0RPtnyw2QS786GJzQThrQamf/myrXvxPmog0zVNT0lt7jNNE5w==",
+  "dgSpecHash": "94V1sgwgQ+v2fHfnFwftW/93QAXoMn2wzzTNcmUy9s26alt0QtkOHDKj0pe/DrXm36IbGxMe3qE/ng247Vj21w==",
   "success": true,
-  "projectFilePath": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj",
+  "projectFilePath": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Lucy_SalesData.DAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

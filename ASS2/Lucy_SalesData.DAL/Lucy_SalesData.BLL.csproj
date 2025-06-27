@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Lucy_SalesData.BLL\Lucy_SalesData.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
