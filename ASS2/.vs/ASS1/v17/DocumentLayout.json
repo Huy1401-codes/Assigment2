@@ -1,62 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LamBai\\ASS2\\",
+  "WorkspaceRootPath": "D:\\LamBai\\Assigment2\\ASS2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B52F9FD-B38D-461F-9EB4-FBE28C4C37A2}|Lucy_SalesData.DAL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.dal\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52F9FD-B38D-461F-9EB4-FBE28C4C37A2}|Lucy_SalesData.DAL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.dal\\service\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52F9FD-B38D-461F-9EB4-FBE28C4C37A2}|Lucy_SalesData.DAL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.dal\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52F9FD-B38D-461F-9EB4-FBE28C4C37A2}|Lucy_SalesData.DAL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.dal\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52F9FD-B38D-461F-9EB4-FBE28C4C37A2}|Lucy_SalesData.DAL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.dal\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52F9FD-B38D-461F-9EB4-FBE28C4C37A2}|Lucy_SalesData.DAL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.dal\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\ass2\\lucy_salesdata.bll\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|d:\\lambai\\assigment2\\ass2\\lucy_salesdata.bll\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68FE07FA-623E-44B3-807B-008422ACE9F6}|Lucy_SalesData.BLL\\Lucy_SalesData.BLL.csproj|solutionrelative:lucy_salesdata.bll\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B52F9FD-B38D-461F-9EB4-FBE28C4C37A2}|Lucy_SalesData.DAL\\Lucy_SalesData.DAL.csproj|d:\\lambai\\ass2\\lucy_salesdata.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B52F9FD-B38D-461F-9EB4-FBE28C4C37A2}|Lucy_SalesData.DAL\\Lucy_SalesData.DAL.csproj|solutionrelative:lucy_salesdata.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,10 +99,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.DAL\\Service\\ReportService.cs",
+              "RelativeDocumentMoniker": "Lucy_SalesData.DAL\\Service\\ReportService.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.DAL\\Service\\ReportService.cs",
+              "RelativeToolTip": "Lucy_SalesData.DAL\\Service\\ReportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:26:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.DAL\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Lucy_SalesData.DAL\\Service\\ProductService.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.DAL\\Service\\ProductService.cs",
+              "RelativeToolTip": "Lucy_SalesData.DAL\\Service\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:25:32.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.DAL\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "Lucy_SalesData.DAL\\Service\\OrderService.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.DAL\\Service\\OrderService.cs",
+              "RelativeToolTip": "Lucy_SalesData.DAL\\Service\\OrderService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T16:25:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OrderDetailRepository.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\OrderDetailRepository.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\OrderDetailRepository.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Repositories\\OrderDetailRepository.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\OrderDetailRepository.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\OrderDetailRepository.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Repositories\\OrderDetailRepository.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAQwDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,11 +150,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\CategoryRepository.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\CategoryRepository.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Repositories\\CategoryRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,11 +163,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Repositories\\EmployeeRepository.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\EmployeeRepository.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Repositories\\EmployeeRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,11 +176,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\OrderRepository.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Repositories\\OrderRepository.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\OrderRepository.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\OrderRepository.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Repositories\\OrderRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +189,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Repositories\\ProductRepository.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Repositories\\ProductRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,11 +202,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\CustomerRepository.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Repositories\\CustomerRepository.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Repositories\\CustomerRepository.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAQwC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,11 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\DataContext.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\DataContext.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\DataContext.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\DataContext.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\DataContext.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,11 +228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "OrderDetail.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\OrderDetail.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\OrderDetail.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\OrderDetail.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\OrderDetail.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\OrderDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Order.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Order.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Order.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Order.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Order.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Order.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Employee.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Employee.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Employee.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Employee.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Employee.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Category.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Category.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Category.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Category.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Category.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Category.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,11 +280,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Product.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Product.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Product.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Product.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Product.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,28 +293,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Customer.cs",
+              "DocumentMoniker": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Customer.cs",
               "RelativeDocumentMoniker": "Lucy_SalesData.BLL\\Customer.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.BLL\\Customer.cs",
+              "ToolTip": "D:\\LamBai\\Assigment2\\ASS2\\Lucy_SalesData.BLL\\Customer.cs",
               "RelativeToolTip": "Lucy_SalesData.BLL\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T16:08:04.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\LamBai\\ASS2\\Lucy_SalesData.DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "Lucy_SalesData.DAL\\Class1.cs",
-              "ToolTip": "D:\\LamBai\\ASS2\\Lucy_SalesData.DAL\\Class1.cs",
-              "RelativeToolTip": "Lucy_SalesData.DAL\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T16:07:47.392Z",
               "EditorCaption": ""
             }
           ]
